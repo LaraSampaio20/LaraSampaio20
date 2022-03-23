@@ -8,8 +8,8 @@ Estudando: <img align="center" alt="Lara-Js" height="30" width="40" src="https:/
 <img align="center" alt="Lara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
  <div align="center"><a href="https://github.com/LaraSampaio20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraSampaio20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSampaio20&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaraSampaio20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSampaio20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
