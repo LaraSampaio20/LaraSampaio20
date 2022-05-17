@@ -1,4 +1,4 @@
-### Ola, eu sou a Lara! Iniciante no mundo da programação.❤️
+### Olá, eu sou a Lara! Iniciante no mundo da programação.❤️
 
 Atualmente trabalhando na area de telecomunicações.
 
