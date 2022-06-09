@@ -14,7 +14,7 @@ Estudando: <img align="center" alt="Lara-Js" height="25" width="30" src="https:/
  <div align="center"><a href="https://github.com/LaraSampaio20">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaraSampaio20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSampaio20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> 
   
   ##
    Contatos:
