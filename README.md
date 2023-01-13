@@ -1,6 +1,6 @@
 ### 𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑳𝒂𝒓𝒂 𝑺𝒂𝒎𝒑𝒂𝒊𝒐! 𝑰𝒏𝒊𝒄𝒊𝒂𝒏𝒕𝒆 𝒏𝒐 𝒎𝒖𝒏𝒅𝒐 𝒅𝒂 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄̧𝒂̃𝒐.❤️
 
-Atualmente trabalhando na area de telecomunicações.
+
 
 Estudando: <img align="center" alt="Lara-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Lara-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
