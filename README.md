@@ -1,17 +1,31 @@
-### 𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑳𝒂𝒓𝒂 𝑺𝒂𝒎𝒑𝒂𝒊𝒐! 𝑰𝒏𝒊𝒄𝒊𝒂𝒏𝒕𝒆 𝒏𝒐 𝒎𝒖𝒏𝒅𝒐 𝒅𝒂 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂𝒄̧𝒂̃𝒐.❤️
+### 𝑶𝒍𝒂́!❤️
 
 
 
-Estudando: <img align="center" alt="Lara-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Lara-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Lara-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Conhecimento em: <img align="center" alt="Lara-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Lara-python" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img align="center" alt="Lara-figma" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center" alt="Lara-css" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="Lara-Mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Lara-Sequelize" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
-<img align="center" alt="Lara-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Lara-github" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img align="center" alt="Lara-git" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img align="center" alt="Lara-vscode" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" alt="Lara-powerapps" height="25" width="30" src="https://img.icons8.com/?size=1200&amp;id=OU2ddOKw840K&amp;format=png">
+<img align="center" alt="Lara-powerautomate" height="25" width="30" src="https://img.icons8.com/?size=1200&amp;id=kTTt25v6Drpd&amp;format=png">
+<img align="center" alt="Lara-powerautomate" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+          
+
+
+ Experiência em:  <img align="center" alt="Lara-powerapps" height="25" width="30" src="https://img.icons8.com/?size=1200&amp;id=OU2ddOKw840K&amp;format=png">
+<img align="center" alt="Lara-powerautomate" height="25" width="30" src="https://img.icons8.com/?size=1200&amp;id=kTTt25v6Drpd&amp;format=png">
+<img align="center" alt="Lara-figma" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center" alt="Lara-vscode" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+          
+          
+
           
 
  <div align="center"><a href="https://github.com/LaraSampaio20">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaraSampaio20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaraSampaio20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraSampaio20&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
